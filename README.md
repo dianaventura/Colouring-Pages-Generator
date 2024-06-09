@@ -1,6 +1,6 @@
 # Project Overview 🎨
 
-Create an AI tool that converts images into coloring pages using edge detection and image processing techniques. This project aims to pave the way for advanced AI applications in personalized and enhanced artistic creation.
+Creating an AI tool that converts my own images into coloring pages using edge detection and image processing techniques. This project aims to pave the way for advanced AI applications in personalised and enhanced artistic creation.
 
 ## Objectives 🖌️
 
