@@ -22,26 +22,26 @@ Creating an AI tool that converts my own images into coloring pages using edge d
   
 - **AI and Machine Learning in Art**:
   - Explore AI's role in analysing and replicating artistic styles.
-  - Learn about creating personalized AI models based on individual artists' work.
+  - Learn about creating personalised AI models based on individual artists' work.
 
 - **Impact of AI on Artistic Creation**:
   - Investigate how AI can augment, not replace, the creative process by identifying patterns and techniques in an artist's work.
 
 ## Ideal Outcome 🌟
 
-Develop a comprehensive AI tool enabling artists to create personalized AI models. These models can generate new artworks or enhance existing ones, allowing artists to explore and expand their creative potential.
+Develop a comprehensive AI tool enabling artists to create personalised AI models. These models can generate new artworks or enhance existing ones, allowing artists to explore and expand their creative potential.
 
 ## Potential Impact 🚀
 
 ### For Artists:
 - Empower artists to explore creative potential through AI.
-- Provide tools to analyze and improve techniques.
-- Enable creation of personalized, AI-generated artworks.
+- Provide tools to analyse and improve techniques.
+- Enable creation of personalised, AI-generated artworks.
 
 ### For the Creative Industry:
 - Enhance the quality and appeal of visual content.
 - Provide insights into what makes certain artworks resonate with audiences.
-- Open new avenues for interactive and personalized artistic experiences.
+- Open new avenues for interactive and personalised artistic experiences.
 
 ### Papers I Am Reading For This Project! 
 
