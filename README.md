@@ -43,7 +43,6 @@ Develop a comprehensive AI tool enabling artists to create personalised AI model
 - Provide insights into what makes certain artworks resonate with audiences.
 - Open new avenues for interactive and personalised artistic experiences.
 
-### Papers I Am Reading For This Project! 
 ## Papers I Am Reading For This Project!
 
 1. [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593)
