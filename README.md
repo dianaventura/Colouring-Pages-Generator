@@ -45,12 +45,16 @@ Develop a comprehensive AI tool enabling artists to create personalised AI model
 
 ## Papers I Am Reading For This Project!
 
-1. [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593)
+1. [An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels](https://huggingface.co/papers/2406.09415)
+   - **Authors:** Duy-Kien Nguyen, Mahmoud Assran, Unnat Jain, Martin R. Oswald, Cees G. M. Snoek, Xinlei Chen
+   - **Year:** 2024
+
+2. [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593)
    - **Authors:** Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A.
    - **Booktitle:** Computer Vision (ICCV), 2017 IEEE International Conference on
    - **Year:** 2017
 
-2. [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004)
+3. [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004)
    - **Authors:** Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A.
    - **Booktitle:** Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on
    - **Year:** 2017
